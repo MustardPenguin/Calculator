@@ -32,12 +32,13 @@ body {
 
 #displayLine {
     padding: 4px 20px;
+    
     border-style: solid;
 
     display: flex;
     justify-content: flex-end;
 
-    font-size: 50px;
+    font-size: 90px;
     background: white;
 }
 
